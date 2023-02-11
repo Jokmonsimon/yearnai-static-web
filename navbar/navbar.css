@@ -3,13 +3,11 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  /* padding: 22px; */
-  gap: 300px;
   isolation: isolate;
 
   position: absolute;
   width: 100%;
-  height: 79px;
+  height: 70px;
   left: 0px;
   top: 0px;
 
@@ -17,18 +15,36 @@
   box-shadow: inset 0px -1px 1px rgba(0, 0, 0, 0.1);
 }
 
+.logo {
+  color: gainsboro;
+}
+
 .nav {
   display: flex;
   flex-direction: row;
   align-items: center;
   padding: 0px;
-  gap: 30px;
-
-  width: 410px;
-  height: 18px;
-
   flex: none;
-  order: 1;
   flex-grow: 0;
   z-index: 1;
+}
+
+.nav-links {
+  display: flex;
+  flex-direction: row;
+  padding: 0px;
+  gap: 30px;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: gainsboro;
+}
+
+.login {
+  color: gainsboro;
 }
