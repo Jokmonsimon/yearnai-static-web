@@ -5,8 +5,8 @@ li {
 a {
   text-decoration: none;
   color: gainsboro;
-  font-family: 'Poppins', sans-serif;
-  /* font-family: 'Teko', sans-serif; */
+  font-size: 14px;
+  font-family: 'Teko', sans-serif;
 }
 
 .navbar {
@@ -53,4 +53,5 @@ a {
 
 .contact-us {
   color: gainsboro;
+  margin-right: 60px;
 }
