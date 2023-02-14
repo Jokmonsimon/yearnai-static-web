@@ -1,5 +1,6 @@
 li {
   list-style: none;
+  margin-bottom: 15px;
 }
 
 a {
@@ -44,11 +45,40 @@ a {
   z-index: 1;
 }
 
+.nav-title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: gainsboro;
+  padding: 0px;
+  flex: none;
+  flex-grow: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.nav-links-popover {
+  background-color: #06071b;
+  color: gainsboro;
+  border-radius: 5px;
+  padding: 15px;
+  display: block;
+  visibility: hidden;
+  position: absolute;
+  /* margin-top: 25%; */
+  z-index: 1;
+}
+
+.nav:hover .nav-links-popover {
+  display: block;
+  visibility: visible;
+}
+
 .nav-links {
   display: flex;
   flex-direction: row;
   padding: 0px;
-  gap: 30px;
+  gap: 20px;
 }
 
 .contact-us {
