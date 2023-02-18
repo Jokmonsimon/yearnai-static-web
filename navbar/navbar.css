@@ -27,7 +27,8 @@ a {
 }
 
 .logo {
-  /* margin-left: 60px; */
+  margin-left: 30px;
+  margin-right: 70px;
   color: gainsboro;
   font-size: 25px;
   font-weight: 400;
@@ -97,16 +98,17 @@ a {
 .contact-us {
   color: gainsboro;
   font-family: 'Teko', sans-serif;
-  /* margin-right: 60px; */
+  margin-right: 30px;
 }
 
-.sales {
+.ai-ml-classroom {
   background-color: orangered;
   padding: 5px;
   border-radius: 5px;
+  margin-left: 10px;
   margin-right: 10px;
 }
 
-.sales > a {
+.ai-ml-classroom > a {
   color: white;
 }
