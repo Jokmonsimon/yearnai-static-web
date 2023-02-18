@@ -12,7 +12,7 @@
 
 1. Setup ReactJS | 12 Mar - 18 Mar, 2023
 2. Components Breakdown and File Structure Organisation | 12 Mar - 18 Mar, 2023
-3. Setup PostgreSQL & Postman | 12 Mar - 18 Mar, 2023
+3. Setup PostgreSQL | 12 Mar - 18 Mar, 2023
 4. Build Backend API with FastAPI and PostgreSQL | 19 Mar - 1 Apr, 2023
 5. Build Navbar | 2 Apr - 8 Apr, 2023
 6. Build Footer | 2 Apr - 8 Apr, 2023
@@ -27,4 +27,4 @@
 
 ## Call for Contributors
 
-Interesting in the project? Reach out to the main Author & Contributor: <afandeojok@afandeojok.tech> | [GitHub](https://github.com/Jokmonsimon) | [LinkedIn]() | [Twitter]()
+Interesting in the project? Reach out to the main Author & Contributor: <afandeojok@afandeojok.tech> | [GitHub](https://github.com/Jokmonsimon) | [LinkedIn](https://www.linkedin.com/in/ojok-simon-peter) | <@ojoksimonpeter3>
