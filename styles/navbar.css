@@ -10,6 +10,11 @@ a {
   font-family: 'Teko', sans-serif;
 }
 
+a:hover {
+  color: white;
+  border-bottom: 1px orangered solid;
+}
+
 .navbar {
   display: flex;
   flex-direction: row;
@@ -67,6 +72,11 @@ a {
   flex-grow: 0;
   cursor: pointer;
   z-index: 1;
+}
+
+.nav-title:hover {
+  color: white;
+  border-bottom: 1px orangered solid;
 }
 
 .nav-links-popover {
