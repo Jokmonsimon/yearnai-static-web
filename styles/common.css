@@ -1,4 +1,13 @@
 body {
   margin: 0;
   padding: 0;
+  background: #06071b;
+
+  color: rgb(220, 220, 220);
+  font-size: 17px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0.05em;
 }
