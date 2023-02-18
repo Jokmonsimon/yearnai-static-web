@@ -6,8 +6,6 @@ li {
 a {
   text-decoration: none;
   color: gainsboro;
-  font-size: 16px;
-  font-family: 'Teko', sans-serif;
 }
 
 a:hover {
@@ -26,30 +24,27 @@ a:hover {
   height: 70px;
   left: 0px;
   top: 0px;
-
-  background: #06071b;
-
   box-shadow: inset 0px -1px 1px rgba(0, 0, 0, 0.1);
 }
 
 .logo {
   margin-left: 30px;
   margin-right: 70px;
-  color: gainsboro;
+  color: rgb(220, 220, 220);
   font-size: 25px;
   font-weight: 400;
   font-family: 'Big Shoulders Display', cursive;
 }
 
 .logo-img {
-  width: 180px;
+  width: 150px;
+  margin-right: 30px;
 }
 
 .navigation {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
 }
 
 .nav {
@@ -64,9 +59,6 @@ a:hover {
 .nav-title {
   display: flex;
   color: gainsboro;
-  font-size: 16px;
-  font-family: 'Teko', sans-serif;
-  padding: 0px;
   margin-right: 20px;
   flex: none;
   flex-grow: 0;
@@ -88,7 +80,6 @@ a:hover {
   flex: start;
   visibility: hidden;
   position: absolute;
-  width: 150px;
   margin-top: 50px;
   z-index: 1;
 }
@@ -103,15 +94,11 @@ a:hover {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  font-size: 16px;
   padding-top: 15px;
-  font-family: 'Teko', sans-serif;
 }
 
 .contact-us {
   color: gainsboro;
-  font-family: 'Teko', sans-serif;
-  margin-right: 30px;
 }
 
 .ai-ml-classroom {
@@ -119,7 +106,6 @@ a:hover {
   padding: 5px;
   border-radius: 5px;
   margin-left: 10px;
-  margin-right: 10px;
 }
 
 .ai-ml-classroom > a {
