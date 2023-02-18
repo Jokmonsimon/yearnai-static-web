@@ -2,10 +2,9 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #06071b;
+  background-color: #050725;
   height: 60px;
   width: 100%;
   position: fixed;
   bottom: 0;
-  color: aliceblue;
 }
