@@ -27,4 +27,4 @@
 
 ## Call for Contributors
 
-Interesting in the project? Reach out to the main Author & Contributor: <afandeojok@afandeojok.tech> | [GitHub](https://github.com/Jokmonsimon) | [LinkedIn](https://www.linkedin.com/in/ojok-simon-peter) | <@ojoksimonpeter3>
+Interesting in the project? Reach out to the main Author & Contributor: <afandeojok@afandeojok.tech> | [GitHub](https://github.com/Jokmonsimon) | [LinkedIn](https://www.linkedin.com/in/ojok-simon-peter) | @ojoksimonpeter3
