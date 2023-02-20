@@ -21,6 +21,11 @@ footer {
   margin-left: 40px;
   color: white;
   font-weight: 600;
+  font-size: 20px;
+}
+
+.footer-title > ul {
+  font-size: 15px;
 }
 
 .footer-social {
