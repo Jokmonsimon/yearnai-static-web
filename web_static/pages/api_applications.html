@@ -9,16 +9,19 @@
     <link rel="stylesheet" href="/styles/common.css" />
     <link rel="stylesheet" href="/styles/navbar.css" />
     <link rel="stylesheet" href="/styles/footer.css" />
+    <link rel="stylesheet" href="/styles/header.css" />
     <link rel="icon" href="/images/logo.png" />
   </head>
   <body>
     <!-- Navbar Starts! -->
     <div class="navbar">
       <!-- <div class="logo">Yearn AI</div> -->
-      <img src="/images/logo2.png" alt="Yearn AI Logo" class="logo-img" />
+      <a href="/web_static/index.html"
+        ><img src="/images/logo2.png" alt="Yearn AI Logo" class="logo-img"
+      /></a>
       <div class="navigation">
         <div class="nav">
-          <p class="nav-title">Company</p>
+          <p class="nav-title"><a href="/web_static/index.html">Company</a></p>
           <ul class="nav-links-popover">
             <li><a href="/web_static/pages/about.html">About</a></li>
             <li>
@@ -154,7 +157,9 @@
 
     <!-- Main Body Content Starts! -->
     <div class="container">
-      <main><h1>Main Content Goes Here!</h1></main>
+      <section class="common-section">
+        <h1>Welcome To API Applications Page!</h1>
+      </section>
     </div>
     <!-- Main Body Content Ends! -->
 
@@ -272,7 +277,13 @@
               <li>support@yearnai.tech</li>
               <li>careers@yearnai.tech</li>
               <li>press@yearnai.tech</li>
-              <li>LinkedIn</li>
+              <li>
+                <a
+                  href="https://www.linkedin.com/company/yearn-ai/"
+                  target="_blank"
+                  >LinkedIn</a
+                >
+              </li>
               <li>Twitter</li>
               <li>Facebook</li>
             </ul>
